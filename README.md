@@ -1,2 +1,1 @@
-# HotelMS
-Hotel Management System desktop application
+# aws_codedeploy_using_github
